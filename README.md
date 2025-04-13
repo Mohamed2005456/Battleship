@@ -13,5 +13,7 @@ Hits and misses will be shown.
 
 First to destroy all ships wins.
 
+The first player to sink all ships wins the game.
+
 Battleship Screen Recording:
 https://youtu.be/cJNJDt9JcNA
